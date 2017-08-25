@@ -8,7 +8,7 @@ Universidade Federal do Ceará - Campus de Quixadá
 
 ## Parte 1 - Introdução
 
-#### [Parte 1 - Introdução](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-01-intro.ipynb)
+#### [Parte 1 - Introdução](01-intro.ipynb)
 - Ciência de Dados
 - Instalação do Ambiente
 - Jupyter Notebooks
