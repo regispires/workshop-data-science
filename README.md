@@ -13,21 +13,21 @@ Universidade Federal do Ceará - Campus de Quixadá
 - Instalação do Ambiente
 - Jupyter Notebooks
 
-#### [Parte 2 - Python Básico](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-02-python_basico.ipynb)
+#### [Parte 2 - Python Básico](02-python_basico.ipynb)
 
 #### Parte 3 - Bibliotecas Python para Manipulação de Dados
-- [Numpy](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-03.1-bibliotecas-manipulacao_de_dados-numpy.ipynb)
-- [Matplotlib](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-03.2-bibliotecas-manipulacao_de_dados-matplotlib.ipynb)
-- [Pandas](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-03.3-bibliotecas-manipulacao_de_dados-pandas.ipynb)
+- [Numpy](03.1-bibliotecas-manipulacao_de_dados-numpy.ipynb)
+- [Matplotlib](03.2-bibliotecas-manipulacao_de_dados-matplotlib.ipynb)
+- [Pandas](03.3-bibliotecas-manipulacao_de_dados-pandas.ipynb)
 
-#### [Parte 4 - Análise de Dados](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-04-analise_de_dados.ipynb)
+#### [Parte 4 - Análise de Dados](04-analise_de_dados.ipynb)
 - Obtenção de Dados
 - Análise Exploratória de Dados
 - Manipulação e Limpeza de Dados
 - Visualização de Dados
 
-#### [Parte 5 - Aprendizado de Máquina](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-05-aprendizagem_maquina.ipynb)
+#### [Parte 5 - Aprendizado de Máquina](05-aprendizagem_maquina.ipynb)
 - Introdução ao Aprendizado de Máquina usando Python
 
-#### [Parte 6 - Conclusão](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-06-conclusoes.ipynb)
+#### [Parte 6 - Conclusão](06-conclusoes.ipynb)
 - Conclusões e Passos Futuros
